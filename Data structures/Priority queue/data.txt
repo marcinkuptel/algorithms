@@ -1,0 +1,9 @@
+Apple
+Google
+Microsoft
+Amazon
+Yahoo
+SwiftKey
+Samsung
+LG
+Sony
