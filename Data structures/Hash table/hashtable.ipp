@@ -94,36 +94,3 @@ void HashTable<T>::printContents()
         }
     }
 }
-
-/**
- Main method
- */
-//using namespace std;
-//int main(int argc, char *argv[]) {
-//    
-//    int size = 31;
-//    HashTable<int> hashtable = HashTable<int>(size);
-//    
-//    for(char i = 'a'; i <= 'z'; i++){
-//        hashtable.putItem(i, string(1, i));
-//    }
-
-//    hashtable.putItem(1, string(1, 'S'));
-//    hashtable.putItem(2, string(1, 'E'));
-//    hashtable.putItem(3, string(1, 'A'));
-//    hashtable.putItem(4, string(1, 'R'));
-//    hashtable.putItem(5, string(1, 'C'));
-//    hashtable.putItem(6, string(1, 'H'));
-//    hashtable.putItem(7, string(1, 'X'));
-//    hashtable.putItem(8, string(1, 'M'));
-//    hashtable.putItem(9, string(1, 'P'));
-//    hashtable.putItem(10, string(1, 'L'));
-    
-//    hashtable.printContents();
-    
-//    if(result){
-//        cout<<*result<<endl;  
-//    }else{
-//        cout<<"No result!"<<endl;
-//    }
-//}
